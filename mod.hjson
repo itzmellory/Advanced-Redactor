@@ -1,0 +1,7 @@
+name: "advanced-redactor"
+displayName: "Advanced Redactor"
+author: "3301"
+main: "advancedredactor.AdvancedRedactorMod"
+version: 1.0
+minGameVersion: 159
+java: true
